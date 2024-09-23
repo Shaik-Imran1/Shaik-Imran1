@@ -1,26 +1,41 @@
-## Hi there! 👋 
-## I'm Imran, an aspiring data scientist.
-Driven by my passion for data analysis, I thrive on turning complex datasets into meaningful insights. Welcome to my GitHub profile! 🚀
+# Hi there! 👋 I'm Imran, a Data Analyst
 
-#### About Me 📊
-I am a data enthusiast with a passion for transforming data into actionable insights. With over 3 years of experience in IT, I began my career at Infosys in Hyderabad, specializing in implementation support with Unix, SQL, and Excel. During this time, I discovered my knack for data analysis and decided to pursue this exciting field.
+Welcome to my GitHub! 🚀 I'm passionate about turning data into actionable insights using a wide array of tools and techniques.
 
-At Infosys, I worked extensively with Excel to generate reports, track progress, and manage tickets efficiently. I also used SQL to extract and analyze data, writing optimized queries that improved monitoring of end-of-day processes and saved valuable time. To further enhance my data visualization skills, I learned Power BI and completed several business projects that demonstrate my ability to present data clearly and effectively.
+## About Me 🌟
 
-I am eager to apply my technical skills and analytical mindset in a dynamic environment, helping organizations make data-driven decisions.
+I'm a skilled Data Analyst with experience in:
 
-#### Tech Stack 👩‍💻
+- 🧑‍💻 **Programming**: Python (Pandas)
+- 📊 **Data Analysis**: Microsoft Excel, SQL
+- 📈 **Data Visualization**: Power BI
 
-- Programming Languages: Python (Pandas)
-- Data Analysis: Pandas, Microsoft Excel
-- Data Visualization: Power BI
-- Database Management: SQL
+I love solving problems through data, creating interactive dashboards, and making data-driven decisions.
 
-#### Projects 🚀
-##### 1. Sales and Finance Analytics
-##### 2. Business Insights 360
+## My Skills ⚒️
 
-#### Connect with Me 🔗
-Let’s connect and learn together! Feel free to reach out to me via:
+- **Data Analysis**: 
+  - Excel (Advanced formulas, Pivot Tables)
+  - SQL (Querying, Data manipulation)
+  - Python (Pandas for data manipulation)
+  
+- **Data Visualization**: 
+  - Power BI (Dashboards, Reports)
 
-##### LinkedIn: https://www.linkedin.com/in/shaikimran1/
+## Projects 🚀
+
+Here are a few of the projects I've worked on:
+
+1. **Sales and Finance Analytics** 📈  
+   Analyzed sales and finance data to provide insights on revenue trends and performance metrics.
+
+2. **Business Insights 360** 💼  
+   Built interactive dashboards to track business KPIs and visualize key data trends.
+
+## Let's Connect! 🔗
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shaikimran1/) to connect and collaborate.
+
+---
+
+Thanks for visiting! 😊
