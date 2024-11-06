@@ -31,6 +31,12 @@ Here are a few of the projects I've worked on:
 
 2. **Business Insights 360** 💼  
    Built interactive dashboards to track business KPIs and visualize key data trends.
+   
+3. **Consumer Goods Analytics** 📈  
+   Analyzed finance and supply chain data to provide solution for Ad-Hoc requests
+
+4. **Revenue and Booking Analytics** 💼  
+   Built interactive dashboards to track business KPIs and visualize key data trends in Hospitality Domain.
 
 ## Let's Connect! 🔗
 
